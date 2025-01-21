@@ -1,0 +1,10 @@
+[
+    {
+        "email": "user@example.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$p9PS45s+y3bpTQcV3ur3vQ$j7q83l2in5TNNTE9I3wh9Xch4jxAeibrvrPbfh02W14"
+    },
+    {
+        "email": "av3rorr@gmail.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$QbyCaiYRpB+AC1ZCKruKUw$88YcD1bE3GCa4N3ZRrpKn/F40ws3nUxWnAiGvULAtCw"
+    }
+]
